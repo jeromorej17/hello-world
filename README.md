@@ -8,3 +8,7 @@ I have a bright idea to add more features to our home page
 --Support 
 
 We need to increase visibility into our Southeast region
+
+-- Contact
+
+It's essential that we keep a live communication line between all entities
