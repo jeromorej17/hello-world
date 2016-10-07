@@ -8,3 +8,6 @@ I have a bright idea to add more features to our home page
 --Support 
 
 We need to increase visibility into our Southeast region
+
+--Resources
+It's unnatural that we do not keep in mind of our stakeholder
